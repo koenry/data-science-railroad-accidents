@@ -178,18 +178,6 @@ Cases where drugs or alcohol were involved which lead to death:
 </details>
 
 	
-	
-# Whats Next?
-
-Now that I have prepared the data I'am going to analyze the:
-1. Draw charts of: median and average count of age, a ratio of death and only injuries, compare each year of accidents, and each year of states with accidents involved.
-2. If the accident was a fatality or not
-3. Draw a map of USA of where were the most fatalities at ( use 2010-2021 data)
-4. ``` Create a wordcloud because I think they are cool but it wont really serve much of a purpose ```
-5. Compare which railroad had the most accidents by each year
-6. Collect another .csv or data of average income by state or county and compare if poorer countries are more involved with train accidents
-7. Write the full thesis of what was found update this repo with it and charts with their code
-
 
 
 
