@@ -115,7 +115,7 @@ This is mostly for Windows only systems
   <summary>Python Script</summary>\
 	Our data with the state column has the USA states id code ( not an abbreviation ) ex. 01 - Alabama. So we upload our .csv to a database and write a script to change the state column ids to the coresponding state name.
   Iam using psycopg2 its a Python library for postgres DB. I wanted to learn more about Postgres thats why iam using this database
- Python Code:
+ Python Code
   
   ```
 	import psycopg2
