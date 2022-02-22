@@ -1,0 +1,3 @@
+UPDATE fulldata2
+SET "TIMEHR" = '24'
+WHERE "AMPM" = 'AM' AND "TIMEHR" = '12';
